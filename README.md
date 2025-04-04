@@ -2,7 +2,7 @@
 
 This is a small C++ program, using SFML2.6 to render force model inside a valued graph.
 
-<img src="./graphs.jpg">
+<img src="./graphs.png">
 
 *** 
 
