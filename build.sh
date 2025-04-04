@@ -1,0 +1,1 @@
+podman run -it --rm -v ~/s4/cpp/v3:/app cpp-v3
